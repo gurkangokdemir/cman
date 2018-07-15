@@ -1,6 +1,6 @@
 #include <stdio.h>
-int main()
-{
+int main(){
    printf("Hello, World!");
+   std::cout<<"Hello"
    return 0;
 }
