@@ -52,7 +52,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [](https://developer.nvidia.com/cuda-downloads) - 
+* [NVIDIA CUDA](https://developer.nvidia.com/cuda-downloads) - 
 
 ## Contributing
 
