@@ -1,16 +1,12 @@
 # cman
-Database management system writen by C/C++
+Database management system writen by C/C++ with CUDA
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+https://developer.nvidia.com/cuda-downloads
 
 ### Installing
 
@@ -56,7 +52,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [](http://www) - 
+* [](https://developer.nvidia.com/cuda-downloads) - 
 
 ## Contributing
 
@@ -64,14 +60,14 @@ Please read [CONTRIBUTING.md] for details on our code of conduct, and the proces
 
 ## Versioning
 
-For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+For the versions available, see the [tags on this repository](https://github.com/gurkangokdemir/cman/tags). 
 
 ## Authors
 
 * **Gurkan GOKDEMIR** - *Initial work* - [gurkangokdemir](https://github.com/gurkangokdemir)
 * **Kaan GIRGINER** - *Initial work* - [kaangirginer](https://github.com/regainingark)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/gurkangokdemir/cman/contributors) who participated in this project.
 
 ## License
 
@@ -79,7 +75,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Not started yet.
 
